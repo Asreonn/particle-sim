@@ -1,5 +1,7 @@
 # Particle Interaction Simulator
 
+> **Status:** Archived. Learning project from 2025 (Python, pygame). Kept as-is, not maintained.
+
 A sophisticated Python-based particle simulation that demonstrates how simple physics rules can create complex, life-like behaviors. Using pygame and NumPy, this project simulates particles with different properties that naturally organize themselves through attraction and repulsion forces.
 
 ## 🎯 Project Purpose
